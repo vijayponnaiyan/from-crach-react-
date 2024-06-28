@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.APP_header {
+  background-color: red;
+  justify-content: space-between;
+  display: flex;
+}
+
+.iteam_alin > ul {
+  padding: 10px;
+  list-style-type: none;
+  display: flex;
+}
+
+.iteam_alin ul > li {
+  color: #f0f8ff;
+  margin-right: 10px;
+  padding: 10px;
+}
+
+#title {
+  color: #f0f8ff;
+  padding: 10px;
+}
+
+.logo {
+  width: 25%;
+}
+
+.card {
+  border-color: 5px solid black;
+  text-align: center;
+  border: 2px solid red;
+  border-radius: 5px;
+  width: 20%;
+  margin-top: 10px;
+}
+
+.focus {
+  flex-wrap: wrap;
+  display: flex;
+}
+/*# sourceMappingURL=index.3a01df49.css.map */

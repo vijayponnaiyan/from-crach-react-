@@ -1,0 +1,45 @@
+*{
+  margin: 0px;
+  padding: 0px;
+ box-sizing: border-box;
+}
+
+.APP_header{
+  display: flex;
+  justify-content: space-between;
+  background-color: red;
+  }
+  .iteam_alin > ul{
+    list-style-type: none;
+    display: flex;
+    padding: 10px;
+
+  }
+  .iteam_alin ul > li  {
+    padding: 10px;
+    margin-right: 10px;
+    color: aliceblue;
+  }
+
+
+  #title{
+    padding: 10px;
+    color: aliceblue;
+  }
+
+.logo{
+   width: 25%;
+}
+
+.card{
+width: 20%;  
+border-color :5px solid black;
+text-align: center;
+border: 2px solid red;
+border-radius: 5px;
+margin-top: 10px;
+}
+.focus {
+  flex-wrap: wrap;
+  display: flex;
+}
